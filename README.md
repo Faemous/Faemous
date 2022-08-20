@@ -16,3 +16,5 @@ Front Engineer, or UI Engineer (Intern or Junior level).
 
 ---
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Faemous&show_icons=true&include_all_commits=true&hide_border=true" alt="Faemous' GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faemous&langs_count=8&layout=compact&hide_border=true" alt="Famous' GitHub stats" /> |
+| ------------- | ------------- |
